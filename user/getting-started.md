@@ -106,16 +106,16 @@ Objective-C, use our OS X environment:
   > You do *not* necessarily need to use OS X if you develop on a Mac.
   > OS X is required only if you need Swift, Objective-C or other
   > macOS-specific software.
-
+user/getting-started.md
 ## More than running tests
-
+user/getting-started.md
 Travis CI isn't just for running tests, there are many others things you can do with your code:
 
 * deploy to [GitHub pages](/user/deployment/pages/)
 * run apps on [Heroku](/user/deployment/heroku/)
 * upload [RubyGems](/user/deployment/rubygems/)
 * send [notifications](/user/notifications/)
-
+user/getting-started.md
 ## Further Reading
 
 Read more about
